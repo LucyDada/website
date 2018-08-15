@@ -36,7 +36,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     ajaxFormspree = true
 
 [[menu.main]]
-    name = "Book #1"
+    name = "Book I"
     url  = "/#book"
     weight = 1
 [[menu.main]]
