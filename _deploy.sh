@@ -11,7 +11,8 @@ fi
 git add .
 git commit -m "$msg"
 
-# Push source 
+# Pull any upstream changes, then Push cpde
+git pull origin master -v
 git push origin master -v
 
 # Build the project.
@@ -25,7 +26,8 @@ git add .
 # Commit build changes
 git commit -m "$msg"
 
-# Push build
+# Pull any upstream changes, then Push build
+git pull origin master -v
 git push origin master -v
 
 # Come Back up to the Project Root
