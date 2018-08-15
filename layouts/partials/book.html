@@ -10,7 +10,7 @@
       </div>
       <div class="row">
 		<div class="col-xs-4">
-			<img src="/images/{{ with $.Site.GetPage "page" $filename }}{{ .Params.image }}{{ end }}">
+			<img src="{{ with $.Site.GetPage "page" $filename }}{{ .Params.image }}{{ end }}">
 		</div>
 		<div class="col-xs-1">
 		</div>
