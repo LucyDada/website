@@ -1,7 +1,7 @@
 ---
 title: "Book #1: Use Passive Restraint, Bitch"
 date: 2018-08-15T17:12:29+03:00
-draft: true
+draft: false
 image: "lucy-dada-book-1-passive-restraint.jpg"
 ---
 
