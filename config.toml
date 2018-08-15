@@ -1,0 +1,54 @@
+baseURL = "http://example.org/"
+title = "Lucy Dada - the book series"
+
+form_post_url = "https://script.google.com/macros/s/AKfycbzKBozQPwbIH2i7HmdVHRg_XvvZga7G1IZ6M_vK/exec"
+
+tags = ["book", "novel", "author", "romantic", "sexy", "book series", "lucy dada", "blog"]
+languageCode = "en-GB"
+
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = "tomanistor"
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+    tagline = "Lucy Dada"
+    author = "Lucy Dada"
+    description = "Lucy Dada's only commitment is to romantic vagabondage. She writes smutty listicles for a digital media and broadcasting corporation and is venturing into self publishing as a side hustle."
+    logoBig = "/images/osprey-logo.png"
+    logoSmall = "/images/osprey-logo.png"
+    favicon = "favicon.ico"
+    opengraphImage = "/images/osprey.png"
+    twitter = "LucyDada"
+    linkedin = ""
+    github = ""
+    facebook = "LucyDada"
+    email = "contact@LucyDada.com"
+    googleTagManager = ""
+    highlightJS = true
+    copyright = false
+    credit = false
+    customCSS = true
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
+
+[[menu.main]]
+    name = "Book #1"
+    url  = "/#book"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url  = "/#about"
+    weight = 3
+[[menu.main]]
+    name = "Blog"
+    url  = "/#blog"
+    weight = 5
+[[menu.main]]
+    name = "Extras"
+    url  = "/#extras"
+    weight = 7
+

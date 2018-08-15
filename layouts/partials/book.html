@@ -1,0 +1,25 @@
+{{ $directory := "content/" }}
+{{ $filename := "book.md" }}
+{{ if (where (readDir $directory) "Name" $filename) }}
+  <section class="book" id="book">
+    <div class="container middle-xs">
+      <div class="row center-xs">
+        <div class="col-xs-12">
+          <h1>{{ with $.Site.GetPage "page" $filename }}{{ .Title }}{{ end }}</h1>
+        </div>
+      </div>
+      <div class="row">
+		<div class="col-xs-4">
+			<img src="/images/{{ with $.Site.GetPage "page" $filename }}{{ .Params.image }}{{ end }}">
+		</div>
+		<div class="col-xs-1">
+		</div>
+        <div class="col-xs-6">
+          {{ with $.Site.GetPage "page" $filename }}
+            {{ .Content }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}
