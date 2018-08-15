@@ -1,8 +1,6 @@
 baseURL = "http://LucyDada.com/"
 title = "Lucy Dada - the book series"
 
-form_post_url = "https://script.google.com/macros/s/AKfycbzKBozQPwbIH2i7HmdVHRg_XvvZga7G1IZ6M_vK/exec"
-
 tags = ["book", "novel", "author", "romantic", "sexy", "book series", "lucy dada", "blog"]
 languageCode = "en-GB"
 
@@ -25,7 +23,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     linkedin = ""
     github = ""
     facebook = "LucyDada"
-    email = "contact@LucyDada.com"
     googleTagManager = ""
     highlightJS = true
     copyright = false
@@ -34,6 +31,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     cacheBustCSS = false
     cacheBustJS = false
     ajaxFormspree = true
+	form_post_url = "https://script.google.com/macros/s/AKfycbzKBozQPwbIH2i7HmdVHRg_XvvZga7G1IZ6M_vK/exec"
+
 
 [[menu.main]]
     name = "Book I"

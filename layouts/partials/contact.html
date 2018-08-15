@@ -4,23 +4,26 @@
 
     <div class="row">
       <div class="col-xs-12">
-        <h1>Sign up for extras</h1>
+		<h1>Sign up for more</h1>
+		<p>Want to be notified about the next Lucy Dada book? Just enter your email (we won't spam you!)
+		<p>If you've read the book, enter the secret code to unlock your exclusive extra chapter! 	</p>
       </div>
     </div>
 
-    <form id="form-contact" action="https://formspree.io/{{ .Site.Params.email }}" method="POST">
-      <div class="row center-xs">
-        <div class="col-xs-12 col-sm-6"><input type="text" name="name" placeholder="Name" required></div>
-        <div class="col-xs-12 col-sm-6"><input type="email" name="email" placeholder="Email" required></div>
-        <div class="col-xs-12"><input type="text" name="_subject" placeholder="Subject" required></div>
-        <div class="col-xs-12"><textarea name="message" placeholder="Message" required></textarea></div>
-        <input type="text" name="_gotcha" style="display:none">
-        <input type="hidden" name="_next" value="/">
-        <div class="col-xs-12 contact-submit">
-          <input id="form-submit" type="submit" value="Send">
-          <span id="form-thankyou" style="visibility:hidden">Thanks for your email!</span>
+    <form id="gform" class="gform" action="{{ .Site.Params.form_post_url }}" method="POST">
+      <div class="row center-xs form-elements">
+        <div class="col-xs-12 col-sm-4"><input type="email" name="email" placeholder="Email" required></div>
+        <div class="col-xs-12 col-sm-4"><input type="text" name="code" placeholder="Code (optional)"><input type="text" name="honeypot" style="display:none"></div>
+        
+        <div class="col-xs-12 col-sm-4 contact-submit">
+          <input type="submit" id="form-save" class="btn-CTA" value="Sign up">
+          <span id="form-thankyou" style="visibility:hidden">Thanks for signing up!</span>
         </div>
-      </div>
+	  </div>
+	  <div class="thankyou_message" style="display:none;">
+		<h2>Thanks for signing up!</h2>
+		<p>We will get in touch with some goodies soon.
+	  </div>
     </form>
 
   </div>
