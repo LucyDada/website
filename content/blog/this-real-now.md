@@ -1,7 +1,7 @@
 ---
-title: "This be real now"
+title: "Time to blog"
 date: 2018-08-15T19:53:00+03:00
 draft: true
 ---
 
-Check back soon for more.
+Don't hold your breath.

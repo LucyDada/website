@@ -4,4 +4,4 @@ date: 2018-08-15T17:10:38+03:00
 draft: false
 ---
 
-Lucy Dada's only commitment is to romantic vagabondage. She writes smutty listicles for a digital media and broadcasting corporation and is venturing into self publishing as a side hustle. She thinks she'd like it to be her main hustle one day.
+Lucy Dada's only commitment is to romantic vagabondage. Fed up by her job at a digital media and broadcasting corporation, she's trying out self publishing as a side hustle. 

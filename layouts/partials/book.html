@@ -9,12 +9,12 @@
         </div>
       </div>
       <div class="row">
-		<div class="col-xs-4">
+		<div class="col-xs-3">
 			<img src="{{ with $.Site.GetPage "page" $filename }}{{ .Params.image }}{{ end }}">
 		</div>
 		<div class="col-xs-1">
 		</div>
-        <div class="col-xs-6">
+        <div class="col-xs-7">
           {{ with $.Site.GetPage "page" $filename }}
             {{ .Content }}
           {{ end }}
