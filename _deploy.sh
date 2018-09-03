@@ -13,6 +13,7 @@ git commit -m "$msg"
 
 # Pull any upstream changes, then Push cpde
 git pull origin master -v
+git stash
 git push origin master -v
 
 # Build the project.
