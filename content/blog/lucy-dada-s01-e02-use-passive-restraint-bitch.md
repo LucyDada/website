@@ -41,3 +41,5 @@ And then there are a lot of guest appearances (or one-time appearances):
 * Mrs. Philanderer (and it doesn't count as cheating because you have a vagina - don't message me between these hours).
 
 * And, of course, Mr. Dingleberries.
+
+{{< ebook_button >}}

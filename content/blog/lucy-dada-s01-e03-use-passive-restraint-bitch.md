@@ -50,3 +50,9 @@ What was the podcast about? Can't remember.
 Did we have sex afterwards? Yes.
 
 Why? Not only was he squeaky clean for round two, it made it even: I had now fucked Mr. Dingleberries and I could immortalise him as such. 
+
+**
+
+Want to read all 32 chapters? Get the book by clicking the button below. 
+
+{{< ebook_button >}}
