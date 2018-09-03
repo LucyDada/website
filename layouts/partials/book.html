@@ -11,8 +11,7 @@
       <div class="row">
 		<div class="col-xs-12 col-sm-3">
 
-			<a href="http://a-fwd.to/5l4YDJw" target="_blank"><img src="/images/kindle_button.png" style="max-width:300px"/></a>
-			<br/>
+			<a href="{{ .Site.Params.link_ebook }}" class="link_ebook" target="_blank"><img src="/images/kindle_button.png" style="margin-bottom:5px"/></a>
 
 			<img src="{{ with $.Site.GetPage "page" $filename }}{{ .Params.image }}{{ end }}">
 		</div>
@@ -22,7 +21,7 @@
           {{ with $.Site.GetPage "page" $filename }}
             {{ .Content }}
           {{ end }}
-          <p><a href="http://a-fwd.to/5l4YDJw" target="_blank"><img src="/images/kindle_button.png"/></a>
+          <p style="margin-top:40px"><a href="{{ .Site.Params.link_ebook }}" class="link_ebook" target="_blank"><img src="/images/kindle_button.png" style="max-width:300px"/></a>
         </div>
       </div>
     </div>

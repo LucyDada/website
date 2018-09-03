@@ -24,6 +24,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     github = ""
     facebook = "Lucy-Dada-256508861852673"
     fediverse = "https://writing.exchange/@LucyDada"
+	  link_ebook = "http://a-fwd.to/5l4YDJw"
     googleTagManager = ""
     highlightJS = true
     copyright = false
@@ -32,7 +33,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     cacheBustCSS = false
     cacheBustJS = false
     ajaxFormspree = true
-	form_post_url = "https://script.google.com/macros/s/AKfycbzKBozQPwbIH2i7HmdVHRg_XvvZga7G1IZ6M_vK/exec"
+	  form_post_url = "https://script.google.com/macros/s/AKfycbzKBozQPwbIH2i7HmdVHRg_XvvZga7G1IZ6M_vK/exec"
 
 
 [[menu.main]]
