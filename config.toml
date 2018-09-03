@@ -7,17 +7,17 @@ languageCode = "en-GB"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
-googleAnalytics = ""
+googleAnalytics = "UA-125141349-1"
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
     tagline = "Lucy Dada"
     author = "Lucy Dada"
-    description = "Lucy Dada's only commitment is to romantic vagabondage. She writes smutty listicles for a digital media and broadcasting corporation and is venturing into self publishing as a side hustle."
-    logoBig = "lucy-dada.jpg"
-    logoSmall = "lucy-dada.jpg"
-    opengraphImage = "lucy-dada.jpg"
+    description = "Lucy Dada's only commitment is to romantic vagabondage. Frustrated with her job at a digital media and broadcasting corporation, she's self-publishing the unfiltered version of her experiences on the side."
+    logoBig = "images/lucy-dada.jpg"
+    logoSmall = "images/lucy-dada.jpg"
+    opengraphImage = "images/lucy-dada-book-1-passive-restraint.jpg"
     favicon = "favicon.ico"
     twitter = ""
     linkedin = ""
