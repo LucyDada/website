@@ -24,6 +24,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     github = ""
     facebook = "Lucy-Dada-256508861852673"
     fediverse = "https://writing.exchange/@LucyDada"
+    goodreads = "https://www.goodreads.com/author/show/18382272.Lucy_Dada"
 	  link_ebook = "http://a-fwd.to/5l4YDJw"
     googleTagManager = ""
     highlightJS = true
