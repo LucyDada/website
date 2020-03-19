@@ -1,5 +1,5 @@
 ---
-title: "Free excerpt of Lucy Dada - Use Passive Restraint, Bitch - chapter 1"
+title: "Lucy Dada - Use Passive Restraint, Bitch - chapter 3"
 date: 2018-09-03T10:01:00+00:00
 draft: false
 ---
@@ -12,7 +12,7 @@ Thank you.
 
 **
 
-Two months is Ms. Blue's maximum no-see time. She'd made this quite clear and I didn't want to test her. It was about seven weeks since we last saw each other ("You can do better than this,” she'd said about my Dingleberries listicle idea). It's also been a couple of weeks of me ignoring her texts for about 24 hours before messaging back...
+Two months is Ms. Blue's maximum no-see time. She'd made this quite clear and I didn't want to test her. It was about seven weeks since we last saw each other ("Is this what you want to do with your life?,” she'd asked after I showed her my Dingleberries listicle). It's also been a couple of weeks of me ignoring her texts for about 24 hours before messaging back...
 
 “So what's going on?” Ms. Blue said in the doorway of her flat. She wouldn't even let me in. I had to explain myself and I had to do it well.
 
