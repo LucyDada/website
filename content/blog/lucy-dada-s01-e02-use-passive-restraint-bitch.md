@@ -1,6 +1,6 @@
 ---
-title: "Free excerpt of Lucy Dada - Use Passive Restraint, Bitch - chapter 2"
-date: 2018-09-03T10:02:00+00:00
+title: "Lucy Dada - Use Passive Restraint, Bitch - chapter 1"
+date: 2020-03-19T10:03:00+00:00
 draft: false
 ---
 
@@ -41,5 +41,3 @@ And then there are a lot of guest appearances (or one-time appearances):
 * Mrs. Philanderer (and it doesn't count as cheating because you have a vagina - don't message me between these hours).
 
 * And, of course, Mr. Dingleberries.
-
-{{< ebook_button >}}

@@ -1,6 +1,6 @@
 ---
-title: "Free excerpt of Lucy Dada - Use Passive Restraint, Bitch - chapter 3"
-date: 2018-09-03T10:03:00+00:00
+title: "Lucy Dada - Use Passive Restraint, Bitch - chapter 2"
+date: 2020-03-19T10:03:00+00:00
 draft: false
 ---
 
@@ -9,7 +9,7 @@ draft: false
 
 Dingleberries generally, but dingleberries on Tinder dates in particular. My next assignment to write up by tomorrow afternoon.
 
-Ms. Blue's opinion on the matter you already know. But here's my two cents: I've worked at this office - a digital media and broadcasting company you've probably heard of - for four years now. First as an intern and then as a full-time writer. Still paid shit. Still no better alternative. Still not talented enough. Still not hot enough. As I see it, writing about dingleberries is as easy a ride as I can get.
+I've worked at this office - a digital media and broadcasting company you've probably heard of - for four years now. First as an intern and then as a full-time writer. Still paid shit. Still no better alternative. Still not talented enough. Still not hot enough. As I see it, writing about dingleberries is as easy a ride as I can get.
 
 This is the gist of it before it gets the listicle treatment:
 
@@ -53,6 +53,3 @@ Why? Not only was he squeaky clean for round two, it made it even: I had now fuc
 
 **
 
-Want to read all 32 chapters? Get the book by clicking the button below.
-
-{{< ebook_button >}}
